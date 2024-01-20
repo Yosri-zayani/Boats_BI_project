@@ -1,0 +1,24 @@
+Type,TotalSalesPerType
+diesel,2340548.5
+used boatdiesel,1.42039002E9
+new boat from stockdiesel,1.60569376E8
+display modeldiesel,8808953.0
+new boat on orderdiesel,5.1982972E7
+used boatelectric,1604994.0
+new boat from stockunleaded,8.8595464E7
+new boat on order,4213771.0
+display modelunleaded,7620695.0
+electric,23010.0
+display modelgas,303024.0
+used boatunleaded,9.4016272E7
+unleaded,349773.25
+new boat from stockelectric,2114939.5
+new boat from stockgas,297655.0
+display model,548922.6
+display modelelectric,172884.0
+used boatgas,534540.0
+new boat on orderunleaded,1.3438807E7
+new boat from stockhybrid,383500.0
+new boat from stock,6.2912112E7
+used boat,2.7269728E8
+used boatpropane,17700.0
